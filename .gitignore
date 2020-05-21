@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.idea
+node_modules
+npm-debug.log
+/servers/gateway/fullchain.pem
+/servers/gateway/privkey.pem
+/servers/gateway/testing.pem
